@@ -66,6 +66,8 @@ Here is a complete code snippet
     protected void onCreate(Bundle savedInstanceState) {
     ....
     
+    NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+
     navigationView.setCheckedItem(R.id.homeFragment);
     navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
         @Override
@@ -146,6 +148,8 @@ Here is a complete code snippet
     protected void onCreate(Bundle savedInstanceState) {
     ....
     
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+
         NavOptions navOptions = new NavOptions.Builder()
                 .setLaunchSingleTop(true)
                 .setEnterAnim(R.anim.slide_in_right)
