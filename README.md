@@ -164,7 +164,7 @@ Here is a complete code snippet
                 handled = true;
             } else {
                 switch (item.getItemId()) {
-                    case R.id.nav_item_six:
+                    case R.id.settings:
                         openSettingsActivity();
                         break;
                 }
