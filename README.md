@@ -13,6 +13,8 @@ If you are familiar with Android Jetpack Navigation Component, you will find tha
 
 As you can see here, there is no much control for you over the way of communication between the NavController and DrawerLayout. The NavigationUI class will handle everything for you starting with making the navigation when you press on a menu item, applying default animation for transition, updating the selected menu item in the DrawerLayout.
 
+#### NOTE: For Navigation Component to work with the menu that your are creating in the DrawerLayout, The Menu Item Id should match with the desired Destination Fragment Id
+
 Some Other Code should be implemented for two reasons:
 1. Consider the navigation destinations which could be made through the DrawerLayout as Top-Level destinations
 2. Setup the DrawerLayout with the ActionBar and Show the Hamberg Icon.
