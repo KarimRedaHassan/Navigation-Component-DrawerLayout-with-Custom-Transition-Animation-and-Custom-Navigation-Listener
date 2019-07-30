@@ -201,3 +201,32 @@ Here is a complete code snippet
             }
         }
     }
+
+
+
+
+# What's Next ?
+
+Navigation-Component-BottomNavigationView-with-Custom-Transition-Animation-and-Navigation-Listener
+
+https://github.com/KarimRedaHassan/Navigation-Component-BottomNavigationView-with-Custom-Transition-Animation-and-Navigation-Listener
+
+Navigation-Component-OptionsMenu-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+
+https://github.com/KarimRedaHassan/Navigation-Component-OptionsMenu-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+
+# Additional Resources
+
+https://developer.android.com/guide/navigation/navigation-getting-started
+
+https://developer.android.com/guide/navigation/navigation-ui
+
+https://codelabs.developers.google.com/codelabs/android-navigation/index.html#0
+
+
+# Also See
+
+#### A Full List Of All My Tutorials
+
+https://github.com/KarimRedaHassan?tab=repositories
+
